@@ -7,7 +7,7 @@ Go to your SillyTavern Directory, and go to SillyTavern>public>scripts>extension
 
 Extract the folder within the .rar into the third-party folder
 
-Open or Restart SillyTavern, and open the extensions tab. There will be a new section labelled Game engine. Expand it, and type into the add box "eosd" (Minus the quoation marks)
+Open or Restart SillyTavern, and open the extensions tab. There will be a new section labelled Game engine. Expand it, and type into the add box "eosd" (Minus the quoation marks) then click add
 
 Select eosd from the dropdown directly above, and click open. 
 
